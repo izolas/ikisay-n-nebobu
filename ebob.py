@@ -9,4 +9,4 @@ def ebob(x,y):
 
 x=int(input("ilk sayıyı giriniz:"))
 y=int(input("\nikinci sayıyı giriniz:"))
-print("\n",x," ve ",y,"sayılarının EBOB'u:",ebob(x,y))
+print("\n",x,"ve",y,"sayılarının EBOB'u:",ebob(x,y))
