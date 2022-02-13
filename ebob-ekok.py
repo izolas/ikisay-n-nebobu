@@ -16,6 +16,8 @@ def ekok(x,y):
             temp2 *=i
     return temp2*x*y
 
+#ekok(x,y)=x*y/ebob(x*y)
+
 x=int(input("ilk sayıyı giriniz:"))
 y=int(input("\nikinci sayıyı giriniz:"))
 print("\n",x,"ve",y,"sayılarının EBOB'u:",ebob(x,y))
